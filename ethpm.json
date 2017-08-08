@@ -1,0 +1,17 @@
+{
+  "package_name": "caboodle",
+  "version": "1.0.0",
+  "description": "Smart Contract Libraries",
+  "authors": [
+    "Diplr <info@diplr.org>"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "zeppelin"
+  ],
+  "license": "MIT"
+}
