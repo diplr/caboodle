@@ -1,34 +1,33 @@
 {
-  "name": "caboodle",
-  "version": "1.0.0",
-  "description": "Smart Contract Libraries",
-  "main": "truffle.js",
-  "scripts": {
-    "console": "./node_modules/.bin/truffle console"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/diplr/caboodle.git"
-  },
-  "keywords": [
-    "solidity",
-    "ethereum",
-    "smart",
-    "contracts",
-    "security",
-    "zeppelin"
-  ],
-  "author": " Quinten De Swaef <info@de-swaef.eu>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/diplr/caboodle"
-  },
-  "homepage": "https://github.com/diplr/caboodle",
-  "dependencies": {
-  },
-  "devDependencies": {
-    "ethereumjs-testrpc": "^3.0.2",
-    "solidity-coverage": "^0.2.1",
-    "truffle": "^3.4.7"
-  }
+    "name": "caboodle",
+    "version": "1.0.0",
+    "description": "Smart Contract Libraries",
+    "main": "truffle.js",
+    "scripts": {
+        "console": "./node_modules/.bin/truffle console"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diplr/caboodle.git"
+    },
+    "keywords": [
+        "solidity",
+        "ethereum",
+        "smart",
+        "contracts",
+        "security",
+        "zeppelin"
+    ],
+    "author": " Quinten De Swaef <info@de-swaef.eu>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/diplr/caboodle"
+    },
+    "homepage": "https://github.com/diplr/caboodle",
+    "devDependencies": {
+        "ethereumjs-testrpc": "^3.0.2",
+        "solidity-coverage": "^0.2.1",
+        "truffle-hdwallet-provider": "0.0.3",
+        "truffle": "^3.4.7"
+    }
 }
